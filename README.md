@@ -9,7 +9,7 @@
 
 - 💬 I got an overview of **mongoDB, docker and Bash**
 
-- 👯 I’m looking to collaborate on **video games to learn how to do it**
+- 👯 I’m looking to collaborate on **Unity to learn how to use it**
 
 - ⚡ Fun fact : **as a graphic/UI designer I thought I'd love frontend but I felt in love with backend and data**
 
