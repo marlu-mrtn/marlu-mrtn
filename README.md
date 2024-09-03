@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 🤝 Later I would like to learn **security, data, C# and Unity and everything I can 🤩**
+- 🤝 I would like to learn **security, data, C# and Unity and everything I can 🤩**
 
 - 💬 I got an overview of **mongoDB, docker and Bash**
 
