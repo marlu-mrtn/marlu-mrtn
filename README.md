@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m starting to learn **React** 
+- 🌱 I’m starting to learn **React** 🤏
 
 - 🤝 I would like to learn **security, data, C# and Unity and everything I can 🤩**
 
