@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marlu</h1>
 <h3 align="center">A baby developer from France who's looking for an internship </h3>
 
-- 🔭 I’m currently working on **my portfolio**
-
-- 🌱 I started to learn **React** 🤏
+- 🌱 Currently learning **Python** 🤏
 
 - 🤝 I would like to learn **security, data, C# and Unity and everything I can 🤩**
 
