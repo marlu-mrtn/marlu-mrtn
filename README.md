@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Marlu</h1>
 <h3 align="center">A baby developer from France who's looking for an internship </h3>
 
-- 🌱 Currently learning **Python** 🤏
+- 🌱 Currently working on an inventory mobile app 
 
-- 🤝 I would like to learn **security, data, C# and Unity and everything I can 🤩**
+- 🤝 I would like to learn **sC#, Unity and everything I can 🤩**
 
 - 💬 I got an overview of **mongoDB, docker and Bash**
 
 - 👯 I’m looking to collaborate on **Unity to learn how to use it**
 
-- ⚡ Fun fact : **as a graphic/UI designer I thought I'd love frontend but I felt in love with backend and data**
+- ⚡ Fun fact : **I'm a graphic/UI designer who's learning to code in Javascript**
 
 - 📫 How to reach me **mariloumrtn.dev@gmail.com**
 
